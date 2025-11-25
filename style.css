@@ -8,6 +8,7 @@
 h1
 {
     font-size: 24px;
+    color: #f9faf8;
 }
 header
 {
@@ -22,10 +23,36 @@ header
 nav a{
     text-decoration: none;
     color: #efe7eb;
+    font-size: 18px;
 }
 nav ul
-{
+{   
    display: flex;
    gap: 50px;
    list-style: none
+}
+
+.hero-section
+{
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    padding-top: 100px;
+   
+}
+.main-title
+{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+.hero-text p{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+button
+{
+    background-color: #3882f6;
+    color: white;
+    font-size: 20px;
 }
