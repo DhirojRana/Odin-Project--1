@@ -71,13 +71,17 @@ button
     margin-top: 10px;
 
 }
+.info
+{
+    padding-bottom: 130px;
+}
 h3
 {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
     text-align: center;
-    padding: 30px;
+    padding: 50px;
 }
 .image-container
 {
