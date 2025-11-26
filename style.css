@@ -66,7 +66,7 @@ button
     color: white;
     font-size: 20px;
     padding: 5px;
-    border-radius: 10px;
+    border-radius: 7px;
     width: 120px;
 }
 .hero-text button{
@@ -140,11 +140,14 @@ blockquote cite
     justify-content: space-around;
     margin-top: 80px;
     margin-bottom: 80px;
+    align-items: center;
 }
 .cta button
 {
     border-color: white;
-    
+    font-size: 22px;
+    width: 120px;
+    height: 38px;
 }
 footer
 {
