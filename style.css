@@ -126,3 +126,19 @@ blockquote cite
     font-size: 28px;
     font-style: normal;
 }
+.cta
+{   display: flex;
+    background-color: #3882f6;
+    color: white;
+    width: 900px;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 40 px;
+    justify-content: space-around;
+   
+}
+.cta button
+{
+    border-color: white;
+    
+}
