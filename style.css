@@ -34,7 +34,6 @@ nav ul
    gap: 50px;
    list-style: none
 }
-
 .hero-section
 {
     background-color: #1f2937;
@@ -111,17 +110,16 @@ h3
 {
     background-color: #e5e7eb;
     font-size: 36px;
-    font-weight: 300;
     display: flex;
     justify-content: center;
     padding-top: 100px;
     padding-bottom: 100px;
     
 }
-  
 blockquote p
 {   font-style: italic;
     max-width: 780px;
+    font-weight: 200;
 }
 blockquote cite
 {   display: block;
