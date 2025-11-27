@@ -26,7 +26,7 @@ header
     justify-content: space-around;
     align-items: center;
     padding-top:5px;
-    gap: 300px;
+    gap: 180px;
 }
 nav a{
     text-decoration: none;
@@ -37,7 +37,7 @@ nav a{
 nav ul
 {   
    display: flex;
-   gap: 50px;
+   gap: 45px;
    list-style: none
 }
 .hero-section
