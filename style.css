@@ -26,7 +26,7 @@ header
     justify-content: space-around;
     align-items: center;
     padding-top:5px;
-    gap: 180px;
+    gap: 250px;
 }
 nav a{
     text-decoration: none;
@@ -47,12 +47,12 @@ nav ul
     display: flex;
     padding-top: 100px;
     justify-content: center;
-    gap: 50px;
+    gap: 35px;
     padding-bottom: 150px;
 }
 .main-title
 {
-    font-size: 48px;
+    font-size: 44px;
     color: #fcefdf;
     font-weight: 900;
 }
