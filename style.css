@@ -15,13 +15,13 @@
 h1
 {
     font-size: 24px;
-    color: #f9faf8;
+    color: #fcefdf;
   
 }
 header
 {
-    background-color: #1f2937;
-    color: white;
+    background-color: #e1827c;
+    color: #fcefdf;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -31,7 +31,7 @@ header
 }
 nav a{
     text-decoration: none;
-    color: #efe7eb;
+    color: #fcefdf;
     font-size: 18px;
 }
 nav ul
@@ -42,8 +42,8 @@ nav ul
 }
 .hero-section
 {
-    background-color: #1f2937;
-    color: #f9faf8;
+    background-color: #e1827c;
+    color: #fcefdf;
     display: flex;
     padding-top: 100px;
     justify-content: center;
@@ -54,7 +54,7 @@ nav ul
 .main-title
 {
     font-size: 48px;
-    color: #f9faf8;
+    color: #fcefdf;
     font-weight: 900;
 }
 .hero-text
@@ -63,12 +63,12 @@ nav ul
 }
 .hero-text p{
     font-size: 18px;
-    color: #e5e7eb;
+    color: #fcefdf;
 }
 button
 {
     background-color: #3882f6;
-    color: white;
+    color: #fcefdf;
     font-size: 20px;
     padding: 5px;
     border-radius: 7px;
