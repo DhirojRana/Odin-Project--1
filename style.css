@@ -26,8 +26,7 @@ header
     justify-content: space-around;
     align-items: center;
     padding-top:5px;
-
-    
+    gap: 300px;
 }
 nav a{
     text-decoration: none;
@@ -59,7 +58,7 @@ nav ul
 }
 .hero-text
 {
-    width: 450px;
+    width: 500px;
 }
 .hero-text p{
     font-size: 18px;
@@ -67,11 +66,11 @@ nav ul
 }
 button
 {
-    background-color: #3882f6;
+    background-color: #324323;
     color: #fcefdf;
     font-size: 20px;
-    padding: 5px;
-    border-radius: 7px;
+    padding: 8px;
+    border-radius: 5px;
     width: 120px;
 }
 .hero-text button{
