@@ -76,7 +76,8 @@ button
 }
 .hero-text button{
     border: 0px;
-    margin-top: 10px;
+    margin-top: 20px;
+    font-weight: 500;
 }
 .info
 {
