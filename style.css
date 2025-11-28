@@ -105,15 +105,20 @@ h3
     height: 120px;
     border-radius: 50%;   
 }
+.image-container p
+{
+    font-weight: 600;
+    font-size: 18px;
+}
 .img-only
 {
     border: 1px solid #f8dfb7;
     background-color: #f8dfb7;
     border-radius: 5px;
-    margin-bottom: 15px;
-    width: 150px;
-    height: 150px;
-    padding-top: 15px;
+    margin-bottom: 18px;
+    width: 165px;
+    height: 160px;
+    padding-top: 20px;
 }
 .imgcon
 {
