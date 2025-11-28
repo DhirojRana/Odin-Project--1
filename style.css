@@ -101,9 +101,19 @@ h3
 }
 .image-container img
 {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;   
+}
+.img-only
+{
+    border: 1px solid #f8dfb7;
+    background-color: #f8dfb7;
+    border-radius: 5px;
+    margin-bottom: 15px;
     width: 150px;
     height: 150px;
-    border-radius: 50%;   
+    padding-top: 15px;
 }
 .imgcon
 {
