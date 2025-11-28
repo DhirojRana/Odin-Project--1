@@ -76,7 +76,7 @@ button
     width: 120px;
 }
 .hero-text button{
-    border: 0px;
+    border: none;
     margin-top: 40px;
     font-weight: 500;
 }
@@ -150,8 +150,8 @@ blockquote cite
 }
 .cta
 {   display: flex;
-    background-color: #3882f6;
-    color: white;
+    background-color: #e1827c;
+    color: #fcefdf;
     width: 900px;
     margin: 0 auto;
     border-radius: 5px;
@@ -163,16 +163,17 @@ blockquote cite
 }
 .cta button
 {
-    border-color: white;
     font-size: 22px;
     width: 120px;
     height: 38px;
+    background-color: #324323;
+    border: none;
 }
-footer
+footer  
 {
     background-color: #324323;
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
-    color: white;
+    color: #fcefdf;
 }
