@@ -83,6 +83,7 @@ button
 .info
 {
     padding-bottom: 130px;
+    background-color: #fcefdf;
 }
 h3
 {
@@ -115,7 +116,7 @@ h3
 }
 .quote-section
 {
-    background-color: #e5e7eb;
+    background-color: #f7ddb9;
     font-size: 36px;
     display: flex;
     justify-content: center;
